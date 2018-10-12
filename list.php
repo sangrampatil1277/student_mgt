@@ -1,8 +1,3 @@
 <?php
-
-  echo "test changes";
-
-  echo "new test";
-
-  echo "test for abhi1";
+echo "from abhi_1_1";
  ?>
